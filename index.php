@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Ecosave is on the cloud!";
